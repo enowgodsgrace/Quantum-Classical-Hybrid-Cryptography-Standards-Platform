@@ -9,3 +9,5 @@ V
 &contracts/certified-algorithm-nft.clar,7/4/74960a70ae2d88ca0d5a06c74028fd4f7c1c09d4
 U
 %tests/certified-algorithm-nft.test.ts,0/d/0da8a667c0999e81a26c52b8204f26fe146ff942
+U
+%contracts/collaborative-research.clar,e/4/e49f215cad742a9a98708f3aa26f26f4dd615dc5
