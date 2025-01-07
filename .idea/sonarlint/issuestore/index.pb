@@ -11,3 +11,5 @@ U
 %tests/certified-algorithm-nft.test.ts,0/d/0da8a667c0999e81a26c52b8204f26fe146ff942
 U
 %contracts/collaborative-research.clar,e/4/e49f215cad742a9a98708f3aa26f26f4dd615dc5
+T
+$tests/collaborative-research.test.ts,5/6/566b05036adadd8b1e6afe93c701dae5a33c2398
